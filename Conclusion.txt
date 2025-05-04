@@ -1,0 +1,9 @@
+Conclusion and Observations
+
+The Iris dataset contains no missing values and has clean numerical data.
+
+There are clear differences in petal and sepal sizes among the species.
+
+Visualizations show that petal length is a strong distinguishing feature among species.
+
+Scatter plots reveal that sepal length and petal length have a positive correlation.
